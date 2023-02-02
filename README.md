@@ -7,4 +7,4 @@ Se aprendió mejor el uso de las media queries y cómo estas funcionan al moment
 
 Autores:
 
-Michael Sáenz y Nicolás Rodríguez 
+Nicolás Rodríguez Michael Sáenz
