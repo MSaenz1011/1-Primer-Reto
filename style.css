@@ -1,6 +1,7 @@
 h1 {
     font-size: 60px;
     line-height: 90px;
+    margin: 8px 0px;
 }
 button {
     color: white;
@@ -70,11 +71,18 @@ img {
         padding-top: 175px;
     }
     .messages {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
         margin-top: 75px;
-        margin-right: 285px;
+
     }
-    .messages>p {
+    .messages p, .messages h1 {
         width: 65%;
-        margin-bottom: 50px;
+        text-align: left;
+    }
+
+    .messages button{
+        width: max-content;
     }
 }
